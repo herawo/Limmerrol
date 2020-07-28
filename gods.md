@@ -1,3 +1,77 @@
+# Dieux du monde de Limmerrol
+
+## Dieux communs
+
+### Arcanna, déesse de la magie blanche
+	Bâton
+### Ashran, dieu du feu et des forgerons
+	Marteau
+### Arwendée, déesse de la chasse et des archers
+	Arc (long ou court au choix)
+### Aurilla, déesse de la chance et des aventuriers
+	Epée courte
+### Axënder, dieu du devoir et de l'honneur
+	Epée longue
+### Céres, dieu de l'agriculture et du travail
+	Faux (arme à 2 mains DM 1d10)
+### Délia, déesse des illusions et des mensonges
+	Dague
+### Danaëlle, déesse de la passion et de la jalousie
+	Arc court
+### Dénora, déesse de la compassion et de la guérison
+	Bâton
+### Ellona, déesse de la perception et de la vérité
+	Arc court
+### Forthur, dieu du courage et des exploits
+	Epée à deux mains
+### Gaëlm, dieu des arts et des artistes
+	Rapière
+### Gorom, dieu de la pierre et des architectes
+	Marteau
+### Guardal, dieu de la loyauté et des gardiens
+	Masse
+### Hellion, dieu des voleurs et du pillage
+	Epée courte
+### Irrion, dieu de l'ordre et de la noblesse
+	Epée longue
+### Jeweln, dieu des souterrains et des mineurs
+	Pioche (arme à 2 mains DM 1d8)
+### Linnarré, déesse de la mer et des marins
+	Trident (similaire à un épieu)
+### Lugannor, dieu des montagnes et des géants
+	Masse à deux mains
+### Mélenna, déesse des forêts et des animaux
+	Arc (long ou court au choix)
+### Méphistère, dieu de l'ombre et des secrets
+	Dague
+### Mirandia, déesse du sommeil et des rêves
+	Bâton
+### Möndovaël, dieu des nomades et du voyage
+	Bâton
+### Morn, dieu de la mort et du passage dans l'au-delà
+	Faux (arme à 2 mains DM 1d10)
+### Orbis, dieu du commerce et des marchands
+	Arbalète légère
+### Oumaros, dieu de l'air et des cieux
+	Arc (long ou court au choix)
+### Périndé, déesse de la fertilité et des mères
+	Bâton
+### Sélenne, déesse de la paix et de la liberté
+	Mains nues
+### Solar, dieu de la lumière et du savoir
+	Masse
+### Suëlle, déesse de la beauté et de l'amour
+	Bâton
+### Trennër, dieu du temps et des ancêtres
+	Bâton
+### Tulsadüm, dieu de la jungle et des reptiles
+	Arc court
+### Tyriolith, dieu du combat contre le chaos et du feu purificateur
+	Masse
+### Voronna, déesse de la justice et de la loi
+	Epée longue
+## Dieux contestés
+
 ### ABALATH, dieu des Complots et de la Vengeance
 Symbole : Dague.  
 Arme Sacrée : Dague.  
@@ -157,7 +231,7 @@ Capacité Divine : Briseur d'os (Voie de la brute - Barbare).
 4. Hémorragie (L)* : (Compagnon p. 63).
 5. Mauvais oeil (L)* : (Voie de prestige de la magie primitive - Nécromancien).
 
-### DIEUX BANNIS (Interdits, Rénégats, Sacrilèges)  
+## DIEUX BANNIS (Interdits, Rénégats, Sacrilèges)  
 Ces divinités sont inconnues du commun des mortels, généralement des autorités et seuls quelques grands responsables religieux sont au fait de la menace qu'elles font peser sur le monde.  
 Ces dieux et leurs domaines associés sont les plus absolutistes, les plus fanatiques et leur retour au premier plan du monde annonceraient bien des malheurs et des destructions. Les dieux bannis sont nés, en même temps que leurs frères et leurs soeurs, de l'adoration des hommes. Mais avec le passage des temps, leurs domaines finissaient par menacer la trame de l'existence elle-même.  
 Les autres dieux ont agi pour les effacer de la mémoire des hommes et les faire disparaître faute d'adoration. Si peu de monde se souviennent d'eux, l'empreinte des dieux bannis est profonde dans l'âme des hommes. Ce sont les actes des hommes qui nourrissent ces dieux rénégats, non plus leur adoration. Actes souvent fait au nom des autres dieux (un massacre au nom d'Oroax fortifie également Khalima. Une création artistique dédiée à Gaëlm nourrit Agag). Malédiction des dieux dont seule la disparition pourra éradiquer ces rénégats...
